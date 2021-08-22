@@ -1,0 +1,30 @@
+---
+title: "Bienvenue sur notre blog !"
+description: |
+  Random 42 en quelques mots 
+author:
+  - name: Alexis Bussenaud 
+    # url: https://example.com/norajones
+    affiliation: AAAA
+    # affiliation_url: https://example.com/spacelysprokets
+    author:
+  - name: Jordan Cantet 
+    # url: https://example.com/norajones
+    affiliation: BBBB
+    # affiliation_url: https://example.com/spacelysprokets
+date: 08-22-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis, nisi sed euismod hendrerit, turpis magna pellentesque ipsum, nec malesuada orci lorem ac tellus. Phasellus ac orci nec diam rutrum viverra. Aliquam erat volutpat. Donec vitae lectus at ligula vehicula fringilla sit amet malesuada nulla. Suspendisse interdum tortor sit amet mi interdum ullamcorper. Sed mi tortor, congue ut congue at, euismod eu mauris. Nulla varius egestas gravida. Vivamus imperdiet dictum lorem, quis accumsan quam ultricies at. In rutrum sollicitudin volutpat. Vestibulum sit amet viverra erat. Nunc ultricies semper massa. Nunc venenatis turpis fermentum, eleifend urna sit amet, fermentum purus.
+
+

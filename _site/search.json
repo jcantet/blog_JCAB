@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "A propos de ce blog",
+      "description": "Quelques informations au sujet de Random 42",
+      "author": [],
+      "contents": "\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis, nisi sed euismod hendrerit, turpis magna pellentesque ipsum, nec malesuada orci lorem ac tellus. Phasellus ac orci nec diam rutrum viverra. Aliquam erat volutpat. Donec vitae lectus at ligula vehicula fringilla sit amet malesuada nulla. Suspendisse interdum tortor sit amet mi interdum ullamcorper. Sed mi tortor, congue ut congue at, euismod eu mauris. Nulla varius egestas gravida. Vivamus imperdiet dictum lorem, quis accumsan quam ultricies at. In rutrum sollicitudin volutpat. Vestibulum sit amet viverra erat. Nunc ultricies semper massa. Nunc venenatis turpis fermentum, eleifend urna sit amet, fermentum purus.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-22T10:49:20+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Random 42",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-22T10:49:21+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
